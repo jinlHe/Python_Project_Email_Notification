@@ -212,3 +212,6 @@ custom_notifier = EmailNotifier(
 
 custom_notifier.send_notification("自定义任务", "SUCCESS", "任务完成")
 ```
+
+## 注
+该代码99.9%都由AI生成，因为其功能较为实用（至少对我本人），因此发布出来，希望能帮到部分人群（至少节省一点Prompt自己编写的时间）
