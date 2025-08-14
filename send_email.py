@@ -30,8 +30,8 @@ class EmailNotifier:
     
     def __init__(
         self, 
-        sender_email: str = "xxxxx@qq.com",
-        recipient_email: str = "xxxxxx@std.uestc.edu.cn",
+        sender_email: str = "xxxx@qq.com",
+        recipient_email: str = "xxxxx@std.uestc.edu.cn",
         smtp_server: str = "smtp.qq.com",
         smtp_port: int = 465
     ):
